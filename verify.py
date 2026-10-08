@@ -49,7 +49,7 @@ files_to_check = [
     'src/generate_predictions.py',
     'requirements.txt',
     'README.md',
-    'report/ML_Assignment_Report.md',
+    'report/ML_Assignment_Report.pdf',
 ]
 
 print("--- File Existence ---")
